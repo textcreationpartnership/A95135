@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation at large of the whole proceedings during the imprisonment of Cornelius de Witt, old burgermaster of the city of Dort, ruwaert of the country of Putten, &amp;c. as also the sentence past upon him : together with a full account of the massacre committed upon the said Cornelius de Witt and his brother John de Witt, late rate pentionaries of Holland and West-Friesland, upon the 20th of August, 1672, at the Hague.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95135</idno>
+            <idno type="STC">Wing T2868A</idno>
+            <idno type="STC">ESTC R43942</idno>
+            <idno type="EEBO-CITATION">42476391</idno>
+            <idno type="OCLC">ocm 42476391</idno>
+            <idno type="VID">151415</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151415)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2258:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation at large of the whole proceedings during the imprisonment of Cornelius de Witt, old burgermaster of the city of Dort, ruwaert of the country of Putten, &amp;c. as also the sentence past upon him : together with a full account of the massacre committed upon the said Cornelius de Witt and his brother John de Witt, late rate pentionaries of Holland and West-Friesland, upon the 20th of August, 1672, at the Hague.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor at the Crown in Little Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With Allowance."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Witt, Cornelis de, 1623-1672.</term>
+               <term>Witt, Johan de, 1625-1672.</term>
+               <term>Lynching --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151415:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <p>A True RELATION At large of the whole PROCEEDINGS During the Impriſonment of Cornelius de Witt, Old Burgermaſter of the City of <hi>DORT, Ruwaert</hi> of the Country of <hi>Putten, &amp;c. As alſo the Sentence paſt upon him.</hi>
+            </p>
+            <p>TOGETHER With a full Account of the Maſſacre committed upon the ſaid <hi>Cornelius de Witt,</hi> and his Brother <hi>John de Witt,</hi> late Rate Pen<g ref="char:EOLhyphen"/>tionaries of <hi>Holland</hi> and <hi>Weſt-Frieſland,</hi> upon the 20th of <hi>Auguſt,</hi> 1672. at the <hi>Hague.</hi>
+            </p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randal Taylor</hi> at the Crown in <hi>Little Britain,</hi> 1672.</p>
+            <pb facs="tcp:151415:2"/>
+            <!-- PDF PAGE 86 -->
+            <pb facs="tcp:151415:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151415:3"/>
+            <!-- PDF PAGE 87 -->
+            <pb n="1" facs="tcp:151415:3"/>
+            <!-- PDF PAGE 87 -->
+            <head>A true Relation at large of the whole Proceedings during the Impriſonment of <hi>Cornelius de Witt,</hi> old Burgermaſter of the City of <hi>Dort, Ruwaert</hi> of the Country of <hi>Putten, &amp;c.</hi>
+            </head>
+            <p>
+               <hi>WIlliam Tichelaur</hi> a Chirurgion, Inhabi<g ref="char:EOLhyphen"/>tant in <hi>Peirſhal,</hi> informing the Court of Juſtice, that the Heer <hi>Cornelius de Witt</hi> old Burghomaſter of the City of <hi>Dort, Ruwaert</hi> of the County of <hi>Putten,</hi> had contracted with him for a certain ſum of Money, and other great Promiſes, to make away the Prince of <hi>Orange,</hi> which being taken into deliberation by thoſe of the Court, it was reſolved at the Houſe of the Heer Preſident, that Order ſhould be given to the Advocate Fiſcal and the other Officers, to tranſport themſelves to the City of <hi>Dort,</hi> to apprehend and bring with them the ſaid <hi>Ruwaert van Putten;</hi> where they arri<g ref="char:EOLhyphen"/>ved the 24th of <hi>July,</hi> whereupon the ſaid Fiſcal ex<g ref="char:EOLhyphen"/>ecuted his Order accordingly, and brought the ſaid <hi>Putten</hi> to the <hi>Hague;</hi> where being landed, he deſi<g ref="char:EOLhyphen"/>red a Coach, but was anſwered that he was to walk on foot: On his way, being guarded by the Fiſcal and another Officer, one ſtept in uſing theſe words in deriſion, <hi>Where are your Halberdeers now to ſecure you?</hi> Being ſecured in the Caſteleney on the 25th of <hi>July,</hi> he was the ſame day about noon examined by the full Court, as alſo the following days, with confronting the Chirurgion, who went free in and out of the Priſon. During this, the Chirurgion
+<pb n="2" facs="tcp:151415:4"/>
+               <!-- PDF PAGE 88 -->went home, and fetcht further Certificates; and at his Return, on the ſixth of <hi>Auguſt</hi> was lodged in the ſame Priſon with <hi>Ruwaert van Putten;</hi> and though it was the vacation time, yet they were ex<g ref="char:EOLhyphen"/>amined the following days by the Councel of the Court, face to face. Mean time the late Rate Pen<g ref="char:EOLhyphen"/>ſionary <hi>de Witt,</hi> his Brother, was very diligent both day and night, adviſing with ſeveral of the ableſt Civilians, to contrive his Brothers Releaſment: Wherupon a Paper of Madam <hi>Van Brockel</hi> his wife, was delivered to the Court, to this effect: <hi>That the ſaid Chirurgion had not ſeen her Husband but once for above a years time, which happened on the</hi> 8th <hi>of</hi> July, <hi>at the houſe of the ſaid</hi> Ruwaert <hi>at</hi> Dort, <hi>who was at that time ſick in bed; that he held not a quarter of an hours diſcourſe with him; neither directly nor indirectly gave him any invitation, but came freely of himſelf; and that which was remarkable, was, his de<g ref="char:EOLhyphen"/>ſire to ſpeak with the ſaid</hi> Ruwaert <hi>alone, who refuſed it, but at the ſecond or third inſtance was admitted. Beſides, that the Wife of the ſaid</hi> Ruwaert <hi>conſidering the wickedneſs of the times, was troubled at his pri<g ref="char:EOLhyphen"/>vate acceſs to her Husband, whoſe ill aſpect portended him no good, in regard of the late attempt made upon her Husbands Brother not many days before, which in all humane probability had been executed, had not the Watchmen prevented their deſign; which grounded apprehenſion through Gods Providence directed her as a ſafeguard to place her Son and Servant at the Cham<g ref="char:EOLhyphen"/>ber-door, that in caſe the ſaid Chirurgion had any evil, deſign upon her Husband, aſſiſtance ſhould be near at hand, and withal to hear the paſſages between them; the Son affirming that he plainly heard their diſcourſe,
+<pb n="3" facs="tcp:151415:4"/>
+                  <!-- PDF PAGE 88 -->which the Father rep<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ated after the Chirurgion was gone; whereby it did appear there had not been the leaſt ſyllable of what the Chirurgion laid to his charge. The diſcourſe being as followeth:</hi> Having declared to him the dangerouſneſs of the times, he had ſome<g ref="char:EOLhyphen"/>what to diſcover to him, which might retain a ſe<g ref="char:EOLhyphen"/>creſie; <hi>To which</hi> Ruwaert <hi>made anſwer,</hi> That in caſe it concerned the States, or was of bad conſequence, it ought to be diſcovered. <hi>Upon which, the Chirur<g ref="char:EOLhyphen"/>gion took his leave, ſaying,</hi> Sir, if you are not willing to know it, I ſhall be ſilent, and ſo fare you well.</p>
+            <div type="part">
+               <opener>The Humble Petition of the Wife and Friends of <hi>Cornelius de Witt,</hi> Sheweth,</opener>
+               <p>
+                  <hi>THat the <hi>Ruwaert van Putten</hi> at preſent Priſoner, your Petitioners did expect after ſome days to have ſeen him as liberty, the Crimes laid to his charge being altogether groundleſs, and the malicious inven<g ref="char:EOLhyphen"/>tion of his Accuſer; and for this cauſe we were ad<g ref="char:EOLhyphen"/>viſed to preſent the circumſtances relating to the clea<g ref="char:EOLhyphen"/>ring of the ſaid Priſoner, not doubting but that his innocency will appear, and accordingly have an ho<g ref="char:EOLhyphen"/>nourable diſmiſsion.</hi>
+               </p>
+               <p>Notwithſtanding this the Lords of the ſaid Court continued to examine both parties: but upon <hi>Tueſ<g ref="char:EOLhyphen"/>day</hi> the 16th of <hi>Auguſt,</hi> a report was ſpread as if the ſaid <hi>Ruaert</hi> had made his eſcape, which drew a great concourſe of People; whereupon ſome of the Lords went to the Priſon, and cauſed <hi>Ruwaert van Putten</hi> to ſhew himſelf to the People, who upon his appear<g ref="char:EOLhyphen"/>ance called to the Rabble, <hi>bid them be gone, the De<g ref="char:EOLhyphen"/>vil
+<pb n="4" facs="tcp:151415:5"/>
+                     <!-- PDF PAGE 89 -->take ye, what do ye do there?</hi> This Tumult was occaſioned by a Coach waiting upon a certain Lord near the Priſon, which was ſuppoſed by the People to be deſign'd for <hi>Ruwaert</hi>'s Conveyance. The Tumult was no ſooner ended, but the Burgers began to appear in Arms, and his Highneſs the <hi>Prince of Orange</hi> was ſupplicated that ſome Com<g ref="char:EOLhyphen"/>panies might be ordered for preſerving the peace. His Highneſs return'd them this anſwer, That he thanked the Burgers for their great care, that the ſaid <hi>Ruwaert</hi> was out of his hands and committed in<g ref="char:EOLhyphen"/>to the hands of Juſtice, to whom he fully intruſted the buſineſs: the effects whereof did appear by a ſtrict examination taken at a full Council. On the 18th of <hi>Auguſt</hi> he was brought to the place of Tor<g ref="char:EOLhyphen"/>ture, and accordingly Racked by the Executioner; there declaring, that if they cut him to pieces, he would to the laſt maintain his Innocency.</p>
+               <p>Upon the 20 of <hi>Aug.</hi> the following Sentence was pronounced againſt <hi>Cornel. de Witt</hi> in the ſaid Priſon.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="sentence">
+                           <p>THe Court of <hi>Holland</hi> having ſeen and examined the Pa<g ref="char:EOLhyphen"/>pers and Writings delivered by the Procurator General againſt <hi>Cornelius de Witt</hi> old Burgermaſter of the City of <hi>Dort,</hi> as likewiſe his examination, and proofs made againſt him, <hi>&amp;c.</hi> and having alſo conſidered all what is requiſite to the matter in hand; Doth declare the ſaid Priſoner to have forfeited all his Dignities and Offices belonging unto him, and that with expedi<g ref="char:EOLhyphen"/>tion he ſhall be baniſhed out of the Countries of <hi>Holland</hi> and <hi>Weſt-Friezland,</hi> never to return again upon pain of ſevere pu<g ref="char:EOLhyphen"/>niſhment. And farther condemns him in the Coſts and Charges of the ſaid Court.</p>
+                           <closer>
+                              <signed>
+                                 <list>
+                                    <item>
+                                       <hi>Adrian Pauw</hi> Preſident,</item>
+                                    <item>
+                                       <list>
+                                          <head>Counſellors of <hi>Holland</hi> and <hi>Weſt-Friezland.</hi>
+                                          </head>
+                                          <item>
+                                             <hi>Aelbrecht Nierop,</hi>
+                                          </item>
+                                          <item>
+                                             <hi>Willem Goes,</hi>
+                                          </item>
+                                          <item>
+                                             <hi>Frederick van Leir,</hi>
+                                          </item>
+                                          <item>
+                                             <hi>Cornelis Baen,</hi> and</item>
+                                          <item>
+                                             <hi>Mattheus Gool,</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </signed>
+                              <dateline>Pronounced in the Priſon of the ſaid Court, <date>Auguſt 20. 1672.</date>
+                              </dateline>
+                              <signed>Adrian Pott.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:151415:5"/>
+               <!-- PDF PAGE 89 -->
+               <head>The manner of the Death of <hi>John de Witt,</hi> and his Brother <hi>Cornelius de Witt.</hi>
+               </head>
+               <p>AT the ſame time, being the 20th of <hi>Auguſt, John de Witt,</hi> late Rate Pentionary of <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> underſtanding his Brother was to be ſet at li<g ref="char:EOLhyphen"/>berty in order to his Baniſhment, made haſte to diſ<g ref="char:EOLhyphen"/>charge him from the Priſon, where he went in his Coach, and leaving it ſome little diſtance from the Priſon-gate, went in to his Brother, and after two hours ſtay with him, about eleven of the Clock, the Priſon-gates were ſet open, and the two Brothers ſtood at the door in order to be gone; but before they could take Coach, a great noiſe was heard, upon which a Burger ſaid, <hi>Away, away, into the Pri<g ref="char:EOLhyphen"/>ſon.</hi> For the Chyrurgion being releaſt ſome time before, Reported that <hi>Ruwaert</hi> was diſcharged, and offered to make good his Accuſation againſt him before God and Men; and told them that <hi>Ruwaert van Putten</hi> offered him 30000 Gilders with a conſi<g ref="char:EOLhyphen"/>derable Employment, and ſome Ducatoons in hand, to kill the Prince of <hi>Orange.</hi> Upon this diſcourſe the Rabble flocked together, crying, <hi>Arm, Arm;</hi> and immediately appeared Six Companies of Foot who ſurrounded the Priſon, notwithſtanding three Troops of Horſe were drawn out to prevent Diſ<g ref="char:EOLhyphen"/>order.</p>
+               <p>About four of the Clock in the Afternoon ſome of them demanded to have the Priſon-doors open; which being refuſed, ſo many volleys of ſhot were diſcharged againſt them, that a paſſage was quickly
+<pb n="6" facs="tcp:151415:6"/>
+                  <!-- PDF PAGE 90 -->made to go in; where in a horrible manner they were both kill'd in a moment: after which, their Bodies were ſtript, dragged to the common place of Execution, and hung up by Legs upon the Gallows, where their Fingers, Toes, Ears, Noſes, Hearts, and Privy Members were cut off and mangled in a moſt barbarous manner, and ſold up and down the Town, a Joynt of a Finger for 12 Stivers, a whole one for 15 Stivers, a piece of an Ear for 25 Stivers, and a Toe for 10 Stivers, and ſo proportionable. So horrid and diſmal a Spectacle in all its Circum<g ref="char:EOLhyphen"/>ſtances was ſcarce ever ſeen or heard of.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151415:6"/>
+            <!-- PDF PAGE 90 -->
+         </div>
+      </body>
+   </text>
+</TEI>
